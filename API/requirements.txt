@@ -1,0 +1,10 @@
+python==3.11.9
+tensorflow==2.19.0
+keras==3.10.0
+fastapi
+uvicorn
+python-multipart
+pillow
+tensorflow-serving-api==2.19.0
+matplotlib
+numpy
